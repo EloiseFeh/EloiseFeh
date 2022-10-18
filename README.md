@@ -8,7 +8,7 @@
 
 - 💬 Languages: Portuguese, English and learning French
 
-- 💻 Front-End Developer at [MOVE TECH USP](https://github.com/moveusp).
+- 💻 Front-End Developer at [MOVE TECH USP](https://github.com/moveusp). You can see one of my public works [HERE](https://observatorioei.org.br).
 
 - 📚 Student at [UFC](https://smd.ufc.br/pt/)
 
