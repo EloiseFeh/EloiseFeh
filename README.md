@@ -6,7 +6,7 @@
 
 - 🌺 Pronouns: She/They
 
-- 💬 Languages: Portuguese, English and learning French
+- 💬 Languages: Portuguese, English, learning Italian
 <!--
 - 💻 Front-End Developer at [MOVE TECH USP](https://github.com/moveusp).-->
 
