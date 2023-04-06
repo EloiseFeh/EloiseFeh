@@ -7,8 +7,8 @@
 - 🌺 Pronouns: She/They
 
 - 💬 Languages: Portuguese, English, learning Italian
-<!--
-- 💻 Front-End Developer at [MOVE TECH USP](https://github.com/moveusp).-->
+
+- 💻 Front-End Developer at [IREDE](https://irede.org.br/).
 
 - 📚 Student at [UFC](https://smd.ufc.br/pt/)
 
