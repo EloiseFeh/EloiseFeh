@@ -8,9 +8,9 @@
 
 - 💬 Languages: Portuguese, English, learning Italian
 
-- 💻 Front-End Developer at [IREDE](https://irede.org.br/).
+- 💻 Front-End Developer at [AltisLAB](http://altislab.com.br/).
 
-- 📚 Student at [UFC](https://smd.ufc.br/pt/)
+- 📚 Graduated at [UFC](https://smd.ufc.br/pt/)
 
 <br>
 <h2> 🚀 Technologies & Tools I use and study </h2>
