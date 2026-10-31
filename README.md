@@ -4,7 +4,7 @@
 
 <h2 align = "justify">Quick Information</h2>
 
-- 🌺 Pronouns: She/They
+- 🌺 Pronouns: She/Her
 
 - 💬 Languages: Portuguese, English, learning Italian
 
